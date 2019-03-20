@@ -1,0 +1,74 @@
+﻿  MyDirectX.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(22526): error C3861: “__readfsdword”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9266): error C3861: “_InterlockedIncrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9275): error C3861: “_InterlockedIncrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9287): error C2065: “InterlockedIncrement64”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9298): error C3861: “_InterlockedDecrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9307): error C3861: “_InterlockedDecrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9319): error C2065: “InterlockedDecrement64”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9333): error C3861: “_InterlockedExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9343): error C3861: “_InterlockedExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9355): error C3861: “InterlockedExchange64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9367): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9377): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9387): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9397): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9409): error C3861: “InterlockedExchangeAdd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9419): error C3861: “InterlockedExchangeAdd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9432): error C3861: “_InterlockedCompareExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9443): error C3861: “_InterlockedCompareExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9456): error C3861: “_InterlockedCompareExchange64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9466): error C3861: “InterlockedAnd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9476): error C3861: “InterlockedOr64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9486): error C3861: “InterlockedXor64”: 找不到标识符
+f:\work\bombcatcher\bombcatcher\mydirectx.cpp(75): error C2440: “初始化”: 无法从“long”转换为“RECT”
+  f:\work\bombcatcher\bombcatcher\mydirectx.cpp(75): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+f:\work\bombcatcher\bombcatcher\mydirectx.cpp(76): error C2440: “初始化”: 无法从“unsigned long”转换为“RECT”
+  f:\work\bombcatcher\bombcatcher\mydirectx.cpp(76): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+  MyGame.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(22526): error C3861: “__readfsdword”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9266): error C3861: “_InterlockedIncrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9275): error C3861: “_InterlockedIncrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9287): error C2065: “InterlockedIncrement64”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9298): error C3861: “_InterlockedDecrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9307): error C3861: “_InterlockedDecrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9319): error C2065: “InterlockedDecrement64”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9333): error C3861: “_InterlockedExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9343): error C3861: “_InterlockedExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9355): error C3861: “InterlockedExchange64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9367): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9377): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9387): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9397): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9409): error C3861: “InterlockedExchangeAdd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9419): error C3861: “InterlockedExchangeAdd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9432): error C3861: “_InterlockedCompareExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9443): error C3861: “_InterlockedCompareExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9456): error C3861: “_InterlockedCompareExchange64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9466): error C3861: “InterlockedAnd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9476): error C3861: “InterlockedOr64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9486): error C3861: “InterlockedXor64”: 找不到标识符
+  MyWindows.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(22526): error C3861: “__readfsdword”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9266): error C3861: “_InterlockedIncrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9275): error C3861: “_InterlockedIncrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9287): error C2065: “InterlockedIncrement64”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9298): error C3861: “_InterlockedDecrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9307): error C3861: “_InterlockedDecrement”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9319): error C2065: “InterlockedDecrement64”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9333): error C3861: “_InterlockedExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9343): error C3861: “_InterlockedExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9355): error C3861: “InterlockedExchange64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9367): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9377): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9387): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9397): error C3861: “_InterlockedExchangeAdd”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9409): error C3861: “InterlockedExchangeAdd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9419): error C3861: “InterlockedExchangeAdd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9432): error C3861: “_InterlockedCompareExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9443): error C3861: “_InterlockedCompareExchange”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9456): error C3861: “_InterlockedCompareExchange64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9466): error C3861: “InterlockedAnd64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9476): error C3861: “InterlockedOr64”: 找不到标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(9486): error C3861: “InterlockedXor64”: 找不到标识符
+  正在生成代码...

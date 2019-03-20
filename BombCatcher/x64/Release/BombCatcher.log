@@ -1,0 +1,169 @@
+﻿  MyDirectX.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(47): error C3646: “nLength”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(48): error C3646: “lpSecurityDescriptor”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(48): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(49): error C3646: “bInheritHandle”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(49): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(53): error C3646: “Internal”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(53): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(54): error C3646: “InternalHigh”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(57): error C3646: “Offset”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(57): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(58): error C3646: “OffsetHigh”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(58): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(60): error C3646: “Pointer”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(63): error C3646: “hEvent”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(63): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(67): error C3646: “lpCompletionKey”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(67): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(69): error C3646: “Internal”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(69): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(70): error C3646: “dwNumberOfBytesTransferred”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(70): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(81): error C3646: “dwLowDateTime”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(81): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(82): error C3646: “dwHighDateTime”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(82): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(91): error C3646: “wYear”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(91): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(92): error C3646: “wMonth”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(92): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(93): error C3646: “wDayOfWeek”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(93): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(94): error C3646: “wDay”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(94): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(95): error C3646: “wHour”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(95): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(96): error C3646: “wMinute”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(96): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(97): error C3646: “wSecond”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(97): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(98): error C3646: “wMilliseconds”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(98): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(103): error C3646: “dwFileAttributes”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(103): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(107): error C3646: “nFileSizeHigh”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(107): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(108): error C3646: “nFileSizeLow”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(108): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(109): error C3646: “dwReserved0”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(109): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(110): error C3646: “dwReserved1”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(110): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(111): error C3646: “CHAR”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(111): error C3646: “cFileName”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(111): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(111): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(111): error C2238: 意外的标记位于“;”之前
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(112): error C3646: “CHAR”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(112): error C3646: “cAlternateFileName”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(112): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(112): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(112): error C2238: 意外的标记位于“;”之前
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(120): error C3646: “dwFileAttributes”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(120): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(124): error C3646: “nFileSizeHigh”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(124): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(125): error C3646: “nFileSizeLow”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(125): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(126): error C3646: “dwReserved0”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(126): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(127): error C3646: “dwReserved1”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(127): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(128): error C3646: “WCHAR”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(128): error C3646: “cFileName”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(128): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(128): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(128): error C2238: 意外的标记位于“;”之前
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(129): error C3646: “WCHAR”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(129): error C3646: “cAlternateFileName”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(129): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(129): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(129): error C2238: 意外的标记位于“;”之前
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(215): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(215): error C2146: 语法错误: 缺少“;”(在标识符“CRITICAL_SECTION”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(216): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(216): error C2146: 语法错误: 缺少“;”(在标识符“PCRITICAL_SECTION”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(219): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(219): error C2146: 语法错误: 缺少“;”(在标识符“CRITICAL_SECTION_DEBUG”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(220): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(220): error C2146: 语法错误: 缺少“;”(在标识符“PCRITICAL_SECTION_DEBUG”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(225): error C2065: “WINAPI”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(225): error C2065: “LPOVERLAPPED_COMPLETION_ROUTINE”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(225): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(225): error C2513: “int”: 在“=”前没有声明变量
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(225): error C2143: 语法错误: 缺少“;”(在“(”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(226): error C2146: 语法错误: 缺少“)”(在标识符“DWORD”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(226): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(226): error C2146: 语法错误: 缺少“;”(在标识符“DWORD”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(229): error C2059: 语法错误:“)”
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(235): error C3646: “lpData”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(235): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(236): error C3646: “cbData”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(236): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(237): error C3646: “cbOverhead”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(237): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(238): error C3646: “iRegionIndex”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(238): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(239): error C3646: “wFlags”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(239): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(242): error C3646: “hMem”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(242): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(243): error C3646: “dwReserved”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(243): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(243): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(243): error C2238: 意外的标记位于“;”之前
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(246): error C3646: “dwCommittedSize”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(246): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(247): error C3646: “dwUnCommittedSize”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(247): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(248): error C3646: “lpFirstBlock”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(248): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(249): error C3646: “lpLastBlock”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(249): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(262): error C3646: “Version”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(262): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(263): error C3646: “Flags”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(263): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(266): error C3646: “LocalizedReasonModule”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(266): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(267): error C3646: “LocalizedReasonId”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(267): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(268): error C3646: “ReasonStringCount”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(268): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(269): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(269): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(269): error C2238: 意外的标记位于“;”之前
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(273): error C3646: “SimpleReasonString”: 未知重写说明符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(273): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(290): error C2065: “WINAPI”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(290): error C2065: “PTHREAD_START_ROUTINE”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(290): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(290): error C2513: “int”: 在“=”前没有声明变量
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(290): error C2143: 语法错误: 缺少“;”(在“(”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(292): error C2146: 语法错误: 缺少“)”(在标识符“lpThreadParameter”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(292): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(292): error C2146: 语法错误: 缺少“;”(在标识符“lpThreadParameter”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(292): error C2059: 语法错误:“)”
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(293): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(293): error C2146: 语法错误: 缺少“;”(在标识符“LPTHREAD_START_ROUTINE”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(295): error C2065: “WINAPI”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(295): error C2065: “PENCLAVE_ROUTINE”: 未声明的标识符
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(295): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(295): error C2378: “LPVOID”: 重定义；符号不能由 typedef 重载
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(291): note: 参见“LPVOID”的声明
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(295): error C2513: “int”: 在“=”前没有声明变量
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(295): error C2143: 语法错误: 缺少“;”(在“(”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(297): error C2146: 语法错误: 缺少“)”(在标识符“lpThreadParameter”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(297): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(297): error C2086: “int LPVOID”: 重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(291): note: 参见“LPVOID”的声明
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(297): error C2146: 语法错误: 缺少“;”(在标识符“lpThreadParameter”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\minwinbase.h(297): fatal error C1003: 错误计数超过 100；正在停止编译
+  MyGame.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(154): fatal error C1189: #error:  "No Target Architecture"
+  MyWindows.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(154): fatal error C1189: #error:  "No Target Architecture"
